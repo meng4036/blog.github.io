@@ -197,9 +197,9 @@ widgets:
         # Author name
         author: 孟英坤
         # Author title
-        author_title: 内核开发工程师
+        author_title: meng4036@outlook.com
         # Author's current location
-        location: 天津
+        location: Tianjin,China
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
@@ -219,7 +219,7 @@ widgets:
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: right
+        position: left
         type: toc
         # Whether to show the index of each heading
         index: false
